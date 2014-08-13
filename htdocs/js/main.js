@@ -5,7 +5,7 @@
 	 */
 	var Default = {
 		// City
-		city:'San Francisco',
+		city:'Sonoma',
 		// DOM ID of where the Google Map is to be rendered
 		domid:'map',
 		// Google Fusion Tables SQL-like query string for flu shot location data
@@ -38,10 +38,10 @@
 			pane: "floatPane",
 			enableEventPropagation: false
 		},
-		// Start center latutude of the Google map
-		lat:37.782848,
+		// Start center latitude of the Google map
+		lat:38.2910933,
 		// Start center longitude of the Google map
-		lng:-122.4141,
+		lng:-122.4579,
 		// State
 		state:'California',
 		// Defined style types passed to TkMap
